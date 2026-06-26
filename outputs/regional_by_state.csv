@@ -1,0 +1,188 @@
+geopolitical_zone,state,total_incidents,total_fatalities
+North East,Borno,1595,6662
+Unknown,Mopti,1460,3360
+North West,Zamfara,1131,3308
+North West,Katsina,1044,2491
+Unknown,Tillaberi,996,2844
+Unknown,Sahel,988,3838
+Unknown,Est,943,4196
+Unknown,Segou,932,2002
+Unknown,Boucle du Mouhoun,844,3092
+Unknown,Gao,825,1277
+North West,Kaduna,802,1536
+Unknown,Centre-Nord,700,2982
+North Central,FCT,621,218
+Unknown,Tombouctou,610,1039
+North Central,Benue,604,1857
+Unknown,Nord,499,2135
+South West,Lagos,496,201
+North Central,Plateau,489,1327
+North West,Sokoto,485,894
+Unknown,Centre-Est,483,1783
+Unknown,Alibori,469,610
+South South,Delta,467,308
+Unknown,Kidal,459,908
+South South,Rivers,440,259
+South East,Anambra,440,461
+North Central,Niger,421,1494
+South South,Edo,407,259
+Unknown,Nouakchott,400,4
+Unknown,Koulikoro,333,754
+South East,Imo,329,400
+Unknown,Atacora,325,172
+Unknown,Diffa,305,503
+South West,Ogun,298,190
+Unknown,Conakry,297,69
+South East,Enugu,296,225
+Unknown,Menaka,261,798
+Unknown,Greater Accra,244,21
+South West,Ondo,232,102
+North East,Taraba,229,465
+Unknown,Dakar,218,25
+North Central,Kogi,218,143
+Unknown,Hauts-Bassins,216,548
+South West,Osun,214,91
+North East,Yobe,211,454
+Unknown,Savanes,210,361
+South East,Abia,201,160
+North Central,Nasarawa,200,303
+Unknown,Ashanti,197,83
+Unknown,Tahoua,197,302
+South West,Oyo,191,87
+North Central,Kwara,185,126
+Unknown,Dosso,183,206
+Unknown,Upper East,182,163
+Unknown,Kankan,174,36
+Unknown,Kayes,164,230
+South East,Ebonyi,158,181
+Unknown,Sikasso,157,129
+Unknown,Cascades,156,546
+North West,Kano,153,76
+Unknown,Maradi,148,85
+North East,Adamawa,142,169
+South South,Akwa Ibom,135,87
+North East,Bauchi,130,168
+South South,Cross River,130,105
+Unknown,Dakhlet Nouadhibou,127,0
+South South,Bayelsa,127,56
+Unknown,Western,126,44
+Unknown,Agadez,118,82
+North West,Kebbi,114,281
+Unknown,Eastern,108,41
+Unknown,Central,108,31
+Unknown,Niamey,108,2
+Unknown,Abidjan,106,6
+Unknown,Bamako,94,95
+Unknown,Borgou,93,43
+Unknown,Zanzan,88,14
+Unknown,Centre,84,5
+Unknown,Kindia,84,19
+Unknown,Northern,83,46
+Unknown,Thies,83,4
+Unknown,Ziguinchor,82,24
+Unknown,Centre-Ouest,75,160
+Unknown,Montserrado,71,10
+Unknown,Sud-Ouest,71,193
+South West,Ekiti,69,21
+Unknown,Nzerekore,58,17
+Unknown,Bissau,57,4
+Unknown,Upper West,55,22
+Unknown,Maritime,54,4
+Unknown,North East,53,54
+North West,Jigawa,50,47
+Unknown,Savannah,48,10
+Unknown,Boke,43,2
+Unknown,Labe,41,1
+Unknown,Saint Louis,40,4
+Unknown,Praia,40,0
+Unknown,Nimba,38,2
+North East,Gombe,35,13
+Unknown,Bono East,33,13
+Unknown,Volta,32,4
+Unknown,Lagunes,32,6
+Unknown,Montagnes,31,10
+Unknown,Tiris Zemmour,30,0
+Unknown,Hodh Ech Chargi,29,3
+Unknown,Sedhiou,29,0
+Unknown,Oti,28,24
+Unknown,Kaolack,27,2
+Unknown,Trarza,27,0
+Unknown,Sao Vicente,27,0
+Unknown,Assaba,26,0
+Unknown,Bono,25,10
+Unknown,Diourbel,24,1
+Unknown,Littoral,24,3
+Unknown,Centre-Sud,22,31
+Unknown,Western North,21,9
+Unknown,Atlantique,21,6
+Unknown,Faranah,21,0
+Unknown,Matam,20,0
+Unknown,Goh-Djiboua,19,4
+Unknown,Mamou,17,1
+Unknown,Zou,16,8
+Unknown,Lacs,16,0
+Unknown,Kolda,16,3
+Unknown,Louga,16,1
+Unknown,Comoe,16,4
+Unknown,Gorgol,14,3
+Unknown,Collines,14,9
+Unknown,Vallee du Bandama,14,6
+Unknown,Sassandra-Marahoue,14,1
+Unknown,Adrar,13,4
+Unknown,Boa Vista,13,0
+Unknown,Donga,13,3
+Unknown,Zinder,13,8
+Unknown,Denguele,13,1
+Unknown,Kedougou,12,6
+Unknown,Ahafo,12,4
+Unknown,Oueme,11,4
+Unknown,Bong,10,0
+Unknown,Southern,10,0
+Unknown,Couffo,10,5
+Unknown,Brakna,10,2
+Unknown,Santa Catarina,10,0
+Unknown,Banjul,9,2
+Unknown,Kaffrine,9,2
+Unknown,Mono,9,7
+Unknown,Brikama,9,1
+Unknown,Bas-Sassandra,8,2
+Unknown,Sal,8,0
+Unknown,Tambacounda,8,0
+Unknown,Grand Bassa,8,0
+Unknown,Kara,8,0
+Unknown,Ribeira Grande,7,0
+Unknown,Northwestern,7,1
+Unknown,Fatick,7,0
+Unknown,Hodh El Gharbi,7,0
+Unknown,Yamoussoukro,6,1
+Unknown,Plateau-Central,6,1
+Unknown,Woroba,6,0
+Unknown,Grand Cape Mount,5,2
+Unknown,Kanifing,5,0
+Unknown,Guidimakha,5,0
+Unknown,Cacheu,5,11
+Unknown,Maryland,5,1
+Unknown,Brava,5,0
+Unknown,Grand Gedeh,4,0
+Unknown,Porto Novo,4,0
+Unknown,Inchiri,4,0
+Unknown,Sinoe,4,0
+Unknown,Margibi,4,0
+Unknown,Lofa,4,2
+Unknown,Sao Filipe,3,0
+Unknown,Sao Lourenco dos Orgaos,3,0
+Unknown,River Gee,2,2
+Unknown,Gabu,2,0
+Unknown,Oio,2,0
+Unknown,Tombali,2,1
+Unknown,Kerewan,2,0
+Unknown,Bafata,1,0
+Unknown,Biombo,1,0
+Unknown,Maio,1,0
+Unknown,Gbarpolu,1,0
+Unknown,Centrale,1,0
+Unknown,Mosteiros,1,0
+Unknown,Sao Domingos,1,0
+Unknown,Ribeira Brava,1,0
+Unknown,Quinara,1,0
+Unknown,Tagant,1,0

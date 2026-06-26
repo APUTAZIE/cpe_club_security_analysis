@@ -1,6 +1,0 @@
-event_id_cnty,event_date,year,event_type,sub_event_type,actor1,country,admin1,admin2,location,latitude,longitude,fatalities,notes
-NGA2024001,2024-01-15,2024,Violence against civilians,Attack,Boko Haram,Nigeria,Borno,Bama,Bama,11.5204,13.6903,3,Armed group attacked a civilian settlement in Bama
-NGA2024002,2024-01-20,2024,Battles,Armed clash,Nigerian Military,Nigeria,Zamfara,Gusau,Gusau,12.1704,6.6649,12,Clash between military and bandits near Gusau
-NGA2024003,2024-02-01,2024,Explosions/Remote violence,Suicide bomb,ISWAP,Nigeria,Adamawa,Yola,Yola,9.2035,12.4954,5,Suicide bombing at a market in Yola
-NGA2024004,2024-02-14,2024,Riots,Violent demonstration,Protesters,Nigeria,Lagos,Lagos Island,Lagos,6.4541,3.3947,0,Protest turned violent near Lagos Island
-NGA2024005,2024-03-05,2024,Violence against civilians,Abduction/forced disappearance,Unknown,Nigeria,Kaduna,Zaria,Zaria,11.1112,7.7227,1,Gunmen abducted several farmers outside Zaria
