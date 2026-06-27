@@ -66,7 +66,7 @@ STATE_NAME_MAP = {
     "Nassarawa":                   "Nasarawa",   # common typo in ACLED
     "Nasarawa":                    "Nasarawa",
 
-    # Add more here if you discover new variants in the real API data
+    # Add more here if you discover new if you wish
 }
 
 
