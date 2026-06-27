@@ -144,5 +144,4 @@ Nigeria dataset, 2023-2024.
 
 ## Team
 
-CPE Club — Week 9 Portfolio Project
-Federal University of Technology, Owerri (FUTO)
+CPE Club — Week 9 Group 1
