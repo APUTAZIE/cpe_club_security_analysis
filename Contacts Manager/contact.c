@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 
-void prints()
+void printsmenu()
 {
   puts("Contact Manager");
   puts("(1) Add contact");
