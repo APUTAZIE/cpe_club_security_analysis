@@ -15,6 +15,7 @@ int main(void)
     puts("");
     printf("Enter the number of your choice: ");
     scanf("%d", &option);
+    (void)getchar();
 
     switch(option)
       {
