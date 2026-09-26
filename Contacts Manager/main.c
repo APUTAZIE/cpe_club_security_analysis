@@ -11,7 +11,7 @@ int main(void)
   while(true)
     {
     puts("");
-    prints();
+    printsmenu();
     puts("");
     printf("Enter the number of your choice: ");
     scanf("%d", &option);
