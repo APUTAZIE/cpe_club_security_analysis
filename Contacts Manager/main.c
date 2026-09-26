@@ -39,8 +39,7 @@ int main(void)
           puts("");
           puts("Invalid option");
       }
-       puts("");
-       printf("would you like back to menu? Y[es] or N[o]: ");
+       printf("Would you like back to menu? Y[es] or N[o]: ");
        scanf(" %c", &symbol2);
        if(!(symbol2 == 'Y' || symbol2 == 'y'))
        {
