@@ -15,4 +15,25 @@ Note: I use a Linux based environment (mostly Ubuntu and Termux) but any Linux b
 
 First is to clone it by
 ```
-git
+git clone https://github.com/APUTAZIE/cpe_club_security_analysis.git
+```
+
+Next change directory 
+```
+cd cpe_club_security_analysis/'Contact Manager'
+```
+
+Then finally run this
+```
+gcc {main,contact}.c -o main && ./main
+```
+
+To check if your prompts or information was saved, Run this
+```
+nano contact.txt
+```
+
+# Contribution
+Any body can contribute to this project, as it's open sourced
+
+©2026, Built by Lawrence The Cinarian
