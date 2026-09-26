@@ -7,6 +7,7 @@ int main(void)
 {
   Contact credel; //Contact is the data type, credel means create and delete
   int option = 0;
+  char symbol2 = '\0';
   while(true)
     {
     puts("");
