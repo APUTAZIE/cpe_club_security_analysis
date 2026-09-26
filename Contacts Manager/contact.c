@@ -47,7 +47,7 @@ int addContact(Contact *replace)
 
 int deletefile(Contact *replace)
 {
-  if(remove(contact.txt) == 0)
+  if(remove("contact.txt") == 0)
   {
     puts("File removed successfully");
   }
