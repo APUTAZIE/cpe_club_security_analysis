@@ -42,7 +42,7 @@ int main(void)
        puts("");
        printf("would you like back to menu? Y[es] or N[o]: ");
        scanf(" %c", &symbol2);
-       if(symbol2 == 'Y' || symbol2 == 'y')
+       if(!(symbol2 == 'Y' || symbol2 == 'y'))
        {
          break;
        }
