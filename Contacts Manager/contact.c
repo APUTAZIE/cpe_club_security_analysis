@@ -16,6 +16,7 @@ int addContact(Contact *replace)
   char symbol = '\0';
   while(true)
   {
+  (void)getchar();
   printf("Enter Name => ");
   fgets(replace->name, sizeof(replace->name), stdin);
   replace->name[strcspn(replace->name, "\n")] = '\0';
