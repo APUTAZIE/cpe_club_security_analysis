@@ -7,6 +7,7 @@ typedef struct
  char phoneNumber[16];
 } Contact;
 
+void printsmenu();
 int addContact(Contact *replace);
 int deletefile(Contact *replace);
 
