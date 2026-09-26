@@ -20,7 +20,7 @@ git clone https://github.com/APUTAZIE/cpe_club_security_analysis.git
 
 Next change directory 
 ```
-cd cpe_club_security_analysis/'Contact Manager'
+cd cpe_club_security_analysis/'Contacts Manager'
 ```
 
 Then finally run this
