@@ -9,6 +9,7 @@ it uses
 - [ ] Pointers which was used in ```contact.c``` ```contact.h``` and ```main.c```
 - [ ] Headers and Macros
 - [ ] Calling of functions
+- [ ] File handling
 
 # How to clone and use
 Note: I use a Linux based environment (mostly Ubuntu and Termux) but any Linux based environment or Linux distro works. Windows also work as well but you'll need to install the official compiler for C in it, as Linux has C pre installed 
