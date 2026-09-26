@@ -31,7 +31,7 @@ int addContact(Contact *replace)
     puts("Error opening file");
     return 1;
   }
-  fprintf("Name: %s\nPhone Number: %s\n\n", replace->name, replace->phoneNumber);
+  fprintf(add_contact, "Name: %s\nPhone Number: %s\n\n", replace->name, replace->phoneNumber);
   fclose(add_contact);
   puts("File saved successfully");
     printf("Would you like to continue? Y[es] or N[o]: ");
