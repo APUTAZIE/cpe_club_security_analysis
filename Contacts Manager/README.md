@@ -4,12 +4,12 @@ This folder was designed in C, though somewhat buggy but code still runs. It can
 # Features
 it uses the following topics for learners.
 it uses
-- [ ] Variables (both standard and custom designed ones using structs)
-- [ ] Structure and Type definitions (struct and typedef)
-- [ ] Pointers which was used in ```contact.c``` ```contact.h``` and ```main.c```
-- [ ] Headers and Macros
-- [ ] Calling of functions
-- [ ] File handling
+- [x] Variables (both standard and custom designed ones using structs)
+- [x] Structure and Type definitions (struct and typedef)
+- [x] Pointers which was used in ```contact.c``` ```contact.h``` and ```main.c```
+- [x] Headers and Macros
+- [x] Calling of functions
+- [x] File handling
 
 # How to clone and use
 Note: I use a Linux based environment (mostly Ubuntu and Termux) but any Linux based environment or Linux distro works. Windows also work as well but you'll need to install the official compiler for C in it, as Linux has C pre installed 
