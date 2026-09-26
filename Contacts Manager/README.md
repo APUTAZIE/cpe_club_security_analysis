@@ -32,6 +32,8 @@ To check if your prompts or information was saved, Run this
 ```
 nano contact.txt
 ```
+Then to exit the editor, press this on your keyboard..
+```CTRL + X```, then ```Y```, and press ```Enter```
 
 # Contribution
 Any body can contribute to this project, as it's open sourced
