@@ -1,4 +1,4 @@
-# Contact Manager
+# Contacts Manager
 This folder was designed in C, though somewhat buggy but code still runs. It can store basic names and phone numbers of its users in a text file, it can be quite useful for you to backup contacts that you may use in the future.
 
 # Features
